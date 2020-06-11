@@ -1,2 +1,2 @@
 # snowfox
-HTML5 platform game [currently under development]
+HTML5 / Javascript animation.
